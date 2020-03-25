@@ -1,6 +1,8 @@
 # RC-car
 The car can be controlled remotely using the Blynk app. There is also a sensor that measures the brightness and shows it on the OLED and on the Blynk app. If the brightness is too low, 2 yellow LEDs on the front and 2 red LEDs on the back of the car will light up. The Blynk app has 4 buttons to move forward, backward, left and right.
 
+I used 6 AA batteries in series to power the servos and 5 AA batteries in series to power the VIN pin.
+
 Used parts:
 - ESP32 Microcontroller
 - BH1750 (digital lux sensor)

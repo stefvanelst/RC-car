@@ -11,6 +11,7 @@ Used parts:
 - 3 lego mindstorms servos
 - I2C OLED display
 - 10µF capacitor
+- 220 ohm resistor
 
 Pins:
 - VIN

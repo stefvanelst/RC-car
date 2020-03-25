@@ -11,6 +11,7 @@ Used parts:
 - 10µF capacitor
 
 Pins:
+- VIN
 - 3.3V
 - GND
 - D4

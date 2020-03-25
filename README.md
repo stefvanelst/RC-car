@@ -24,8 +24,6 @@ Pins:
 - D18
 - D19
 - D27
-
-RC car Blynk app.png
 - D21 SDA
 - D22 SCL
 - EN
